@@ -2,3 +2,4 @@
 更改文档内容。
 修复bugs.
 git push
+conflict resolved.
