@@ -3,3 +3,4 @@
 修复bugs.
 git push
 conflict resolved completed finally.
+master conflict second.
